@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ## K.S. Adithya
+  # K.S.Adithya
   
   <img src="https://raw.githubusercontent.com/Firespiko/Firespiko/main/nebula%20(1).jpg" alt="Nebula Banner" width="100%">
   
@@ -9,8 +9,8 @@
   
   > ###  <i>To Infinity and Beyond</i>
 </div>
+<br>
 
-<h1 align="center">Hi 👋, I'm K.S.Adithya</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
 
